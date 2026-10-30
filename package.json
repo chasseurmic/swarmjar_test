@@ -1,0 +1,9 @@
+{
+  "name": "swarmjar_test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "swarmjar_test",
+  "scripts": {
+    "test": "node --test"
+  }
+}
